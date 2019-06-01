@@ -1,5 +1,5 @@
 # CakesShop
-### 作者：vili &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 联系方式1976763043@qq.com
+### 作者：vili &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;联系方式vili_wzl@126.com
 
 *2018年javaweb大作业,基于jsp和servlet的javaweb的电商网站*
 
